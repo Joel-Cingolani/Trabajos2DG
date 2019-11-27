@@ -6,4 +6,4 @@ Listado de trabajos Sistema de Representación Avanzada
 * [Artista](https://joel-cingolani.github.io/Artista)
 * [Tarjetas](https://joel-cingolani.github.io/Tarjetas) 
 * [Landing](https://joel-cingolani.github.io/Landing) 
-* [MOMA](https://joel-cingolani.github.io/MOMA) 
+* [MOMA](https://joel-cingolani.github.io/MOMA/) 
